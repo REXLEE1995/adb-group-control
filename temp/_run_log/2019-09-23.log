@@ -1,0 +1,51 @@
+09-23 16:09:20 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 36, in usb_connect(), INFO -> 正在读取设备列表
+09-23 16:09:24 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 40, in usb_connect(), INFO -> 未检测到连入设备
+09-23 16:09:51 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 36, in usb_connect(), INFO -> 正在读取设备列表
+09-23 16:09:51 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 40, in usb_connect(), INFO -> 未检测到连入设备
+09-23 16:09:57 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 36, in usb_connect(), INFO -> 正在读取设备列表
+09-23 16:09:57 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 40, in usb_connect(), INFO -> 未检测到连入设备
+09-23 16:10:32 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 36, in usb_connect(), INFO -> 正在读取设备列表
+09-23 16:10:32 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 40, in usb_connect(), INFO -> 未检测到连入设备
+09-23 16:10:34 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 36, in usb_connect(), INFO -> 正在读取设备列表
+09-23 16:10:34 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 40, in usb_connect(), INFO -> 未检测到连入设备
+09-23 16:13:25 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 36, in usb_connect(), INFO -> 正在读取设备列表
+09-23 16:13:25 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 50, in usb_connect(), INFO -> 添加设备ae4a98b7	device
+09-23 16:13:25 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 51, in usb_connect(), INFO -> 已读取设备列表[('ae4a98b7', 'MI CC 9', 'online')]
+09-23 16:13:27 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 36, in usb_connect(), INFO -> 正在读取设备列表
+09-23 16:13:27 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 50, in usb_connect(), INFO -> 添加设备ae4a98b7	device
+09-23 16:13:27 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 51, in usb_connect(), INFO -> 已读取设备列表[('ae4a98b7', 'MI CC 9', 'online')]
+09-23 16:17:34 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 36, in usb_connect(), INFO -> 正在读取设备列表
+09-23 16:17:34 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 50, in usb_connect(), INFO -> 添加设备ae4a98b7	device
+09-23 16:17:34 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 51, in usb_connect(), INFO -> 已读取设备列表[('ae4a98b7', 'MI CC 9', 'online')]
+09-23 17:18:19 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 36, in usb_connect(), INFO -> 正在读取设备列表
+09-23 17:18:19 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 50, in usb_connect(), INFO -> 添加设备ae4a98b7	device
+09-23 17:18:19 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 51, in usb_connect(), INFO -> 已读取设备列表[('ae4a98b7', 'MI CC 9', 'online')]
+09-23 17:18:20 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 36, in usb_connect(), INFO -> 正在读取设备列表
+09-23 17:18:20 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 50, in usb_connect(), INFO -> 添加设备ae4a98b7	device
+09-23 17:18:20 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 51, in usb_connect(), INFO -> 已读取设备列表[('ae4a98b7', 'MI CC 9', 'online')]
+09-23 17:18:21 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 36, in usb_connect(), INFO -> 正在读取设备列表
+09-23 17:18:21 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 50, in usb_connect(), INFO -> 添加设备ae4a98b7	device
+09-23 17:18:21 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 51, in usb_connect(), INFO -> 已读取设备列表[('ae4a98b7', 'MI CC 9', 'online')]
+09-23 17:18:22 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 36, in usb_connect(), INFO -> 正在读取设备列表
+09-23 17:18:22 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 50, in usb_connect(), INFO -> 添加设备ae4a98b7	device
+09-23 17:18:22 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 51, in usb_connect(), INFO -> 已读取设备列表[('ae4a98b7', 'MI CC 9', 'online')]
+09-23 17:18:26 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 36, in usb_connect(), INFO -> 正在读取设备列表
+09-23 17:18:26 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 50, in usb_connect(), INFO -> 添加设备ae4a98b7	device
+09-23 17:18:26 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 50, in usb_connect(), INFO -> 添加设备d935a7ab	device
+09-23 17:18:26 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 51, in usb_connect(), INFO -> 已读取设备列表[('ae4a98b7', 'MI CC 9', 'online'), ('d935a7ab', 'MI 4LTE', 'online')]
+09-23 17:18:30 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\page\mainpg_fun.py', line 178, in more_bn_f(), WARNING -> 设备:MI 4LTE 微信清空 成功
+09-23 17:18:45 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\page\mainpg_fun.py', line 178, in more_bn_f(), WARNING -> 设备:MI 4LTE 微信清空 成功
+09-23 18:08:29 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 36, in usb_connect(), INFO -> 正在读取设备列表
+09-23 18:08:29 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 50, in usb_connect(), INFO -> 添加设备ae4a98b7	device
+09-23 18:08:29 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 50, in usb_connect(), INFO -> 添加设备d935a7ab	device
+09-23 18:08:29 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 51, in usb_connect(), INFO -> 已读取设备列表[('ae4a98b7', 'MI CC 9', 'online'), ('d935a7ab', 'MI 4LTE', 'online')]
+09-23 18:08:36 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\thread_mod.py', line 20, in thread_start(), INFO -> 运行开始时间：18:08:36
+09-23 18:08:36 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\tools\_1_tool.py', line 21, in start(), INFO -> 正在对设备:MI 4LTE 进行软件安装操作
+09-23 18:08:41 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\tools\_1_tool.py', line 26, in start(), INFO -> 设备:MI 4LTE 软件安装 失败（包名：D:\Users\REXLEE\Desktop\776952be891c458c867ef168a9c293fb.apk）
+09-23 18:18:52 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 36, in usb_connect(), INFO -> 正在读取设备列表
+09-23 18:18:53 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 50, in usb_connect(), INFO -> 添加设备NX529J	device
+09-23 18:18:53 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 50, in usb_connect(), INFO -> 添加设备d935a7ab	device
+09-23 18:18:53 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 51, in usb_connect(), INFO -> 已读取设备列表[('NX529J', 'NX529J', 'online'), ('d935a7ab', 'MI 4LTE', 'online')]
+09-23 18:18:56 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\thread_mod.py', line 20, in thread_start(), INFO -> 运行开始时间：18:18:56
+09-23 18:18:56 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\tools\_1_tool.py', line 21, in start(), INFO -> 正在对设备:NX529J 进行软件安装操作
+09-23 18:19:02 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\tools\_1_tool.py', line 26, in start(), INFO -> 设备:NX529J 软件安装 失败（包名：D:\Users\REXLEE\Desktop\776952be891c458c867ef168a9c293fb.apk）

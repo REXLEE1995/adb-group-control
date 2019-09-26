@@ -1,0 +1,2 @@
+09-18 10:14:57 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 36, in usb_connect(), INFO -> 正在读取设备列表
+09-18 10:14:57 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 40, in usb_connect(), INFO -> 未检测到连入设备

@@ -1,0 +1,3 @@
+09-20 18:10:21 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 36, in usb_connect(), INFO -> 正在读取设备列表
+09-20 18:10:21 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 50, in usb_connect(), INFO -> 添加设备PBV7N16617004921	device
+09-20 18:10:21 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 51, in usb_connect(), INFO -> 已读取设备列表[('PBV7N16617004921', 'EVA-AL00', 'online')]

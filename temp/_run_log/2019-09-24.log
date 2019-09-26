@@ -1,0 +1,90 @@
+09-24 20:04:43 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 36, in usb_connect(), INFO -> 正在读取设备列表
+09-24 20:04:43 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 50, in usb_connect(), INFO -> 添加设备PBV7N16617004921	device
+09-24 20:04:43 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 51, in usb_connect(), INFO -> 已读取设备列表[('PBV7N16617004921', 'EVA-AL00', 'online')]
+09-24 20:04:46 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\page\mainpg_fun.py', line 110, in deleMsg_bn_f(), INFO -> 设备:EVA-AL00 .Msg文件夹删除 成功
+09-24 20:04:50 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\page\mainpg_fun.py', line 178, in more_bn_f(), WARNING -> 设备:EVA-AL00 微信清空 成功
+09-24 20:08:18 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\thread_mod.py', line 20, in thread_start(), INFO -> 运行开始时间：20:08:18
+09-24 20:08:18 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\tools\_1_tool.py', line 21, in start(), INFO -> 正在对设备:EVA-AL00 进行软件安装操作
+09-24 20:08:21 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\tools\_1_tool.py', line 24, in start(), INFO -> 设备:EVA-AL00 软件安装 成功（包名：D:\Users\REXLEE\Desktop\0557c80da3564c8b911e520dc750b3e8.apk）
+09-24 20:35:11 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 36, in usb_connect(), INFO -> 正在读取设备列表
+09-24 20:35:11 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 50, in usb_connect(), INFO -> 添加设备8b58acff	device
+09-24 20:35:11 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 50, in usb_connect(), INFO -> 添加设备PBV7N16617004921	device
+09-24 20:35:11 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 51, in usb_connect(), INFO -> 已读取设备列表[('8b58acff', 'vivo X20', 'online'), ('PBV7N16617004921', 'EVA-AL00', 'online')]
+09-24 20:35:15 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\page\mainpg_fun.py', line 178, in more_bn_f(), WARNING -> 设备:vivo X20 微信清空 成功
+09-24 20:35:18 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\page\mainpg_fun.py', line 110, in deleMsg_bn_f(), INFO -> 设备:vivo X20 .Msg文件夹删除 成功
+09-24 20:36:54 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\page\mainpg_fun.py', line 110, in deleMsg_bn_f(), INFO -> 设备:vivo X20 .Msg文件夹删除 成功
+09-24 20:36:56 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\page\mainpg_fun.py', line 178, in more_bn_f(), WARNING -> 设备:vivo X20 微信清空 成功
+09-24 20:36:56 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\page\mainpg_fun.py', line 110, in deleMsg_bn_f(), INFO -> 设备:vivo X20 .Msg文件夹删除 成功
+09-24 20:36:56 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\page\mainpg_fun.py', line 110, in deleMsg_bn_f(), INFO -> 设备:vivo X20 .Msg文件夹删除 成功
+09-24 20:43:40 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 36, in usb_connect(), INFO -> 正在读取设备列表
+09-24 20:43:41 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 50, in usb_connect(), INFO -> 添加设备8b58acff	device
+09-24 20:43:41 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 50, in usb_connect(), INFO -> 添加设备PBV7N16617004921	device
+09-24 20:43:41 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 51, in usb_connect(), INFO -> 已读取设备列表[('8b58acff', 'vivo X20', 'online'), ('PBV7N16617004921', 'EVA-AL00', 'online')]
+09-24 20:43:43 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\page\mainpg_fun.py', line 178, in more_bn_f(), WARNING -> 设备:vivo X20 微信清空 成功
+09-25 09:40:32 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 36, in usb_connect(), INFO -> 正在读取设备列表
+09-25 09:40:32 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 50, in usb_connect(), INFO -> 添加设备d935a7ab	device
+09-25 09:40:32 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 51, in usb_connect(), INFO -> 已读取设备列表[('d935a7ab', 'MI 4LTE', 'online')]
+09-25 09:40:36 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\page\mainpg_fun.py', line 178, in more_bn_f(), WARNING -> 设备:MI 4LTE 微信清空 成功
+09-25 09:40:37 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\page\mainpg_fun.py', line 110, in deleMsg_bn_f(), INFO -> 设备:MI 4LTE .Msg文件夹删除 成功
+09-25 09:40:55 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\thread_mod.py', line 20, in thread_start(), INFO -> 运行开始时间：09:40:55
+09-25 09:40:55 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\tools\_2_tool.py', line 22, in start(), INFO -> 正在对设备:MI 4LTE 进行软件卸载操作
+09-25 09:40:58 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\tools\_2_tool.py', line 25, in start(), INFO -> 设备:MI 4LTE 软件卸载 成功（包名：com.lkkun54te）
+09-25 09:41:15 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\page\mainpg_fun.py', line 110, in deleMsg_bn_f(), INFO -> 设备:MI 4LTE .Msg文件夹删除 成功
+09-25 10:43:26 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\page\mainpg_fun.py', line 110, in deleMsg_bn_f(), INFO -> 设备:MI 4LTE .Msg文件夹删除 成功
+09-25 10:43:28 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 36, in usb_connect(), INFO -> 正在读取设备列表
+09-25 10:43:29 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 50, in usb_connect(), INFO -> 添加设备0123456789ABCDEF	device
+09-25 10:43:29 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 51, in usb_connect(), INFO -> 已读取设备列表[('0123456789ABCDEF', 'NX529J', 'online')]
+09-25 10:43:34 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\thread_mod.py', line 20, in thread_start(), INFO -> 运行开始时间：10:43:34
+09-25 10:43:34 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\tools\_2_tool.py', line 22, in start(), INFO -> 正在对设备:NX529J 进行软件卸载操作
+09-25 10:43:35 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\tools\_2_tool.py', line 29, in start(), INFO -> 设备:NX529J 软件卸载 失败 应用不存在（包名：com.lkkun54te）
+09-25 10:44:12 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\thread_mod.py', line 20, in thread_start(), INFO -> 运行开始时间：10:44:12
+09-25 10:44:12 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\tools\_2_tool.py', line 22, in start(), INFO -> 正在对设备:NX529J 进行软件卸载操作
+09-25 10:44:13 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\tools\_2_tool.py', line 25, in start(), INFO -> 设备:NX529J 软件卸载 成功（包名：com.lkkun54te）
+09-25 10:44:29 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\thread_mod.py', line 20, in thread_start(), INFO -> 运行开始时间：10:44:29
+09-25 10:44:29 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\tools\_1_tool.py', line 21, in start(), INFO -> 正在对设备:NX529J 进行软件安装操作
+09-25 10:44:29 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\tools\_1_tool.py', line 26, in start(), INFO -> 设备:NX529J 软件安装 失败（包名：D:\Users\REXLEE\Desktop\776952be891c458c867ef168a9c293fb.apkD:\Users\REXLEE\Desktop\0557c80da3564c8b911e520dc750b3e8.apk）
+09-25 10:44:34 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\thread_mod.py', line 20, in thread_start(), INFO -> 运行开始时间：10:44:34
+09-25 10:44:34 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\tools\_1_tool.py', line 21, in start(), INFO -> 正在对设备:NX529J 进行软件安装操作
+09-25 10:44:34 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\tools\_1_tool.py', line 26, in start(), INFO -> 设备:NX529J 软件安装 失败（包名：D:\Users\REXLEE\Desktop\776952be891c458c867ef168a9c293fb.apkD:\Users\REXLEE\Desktop\0557c80da3564c8b911e520dc750b3e8.apk）
+09-25 10:44:36 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\thread_mod.py', line 20, in thread_start(), INFO -> 运行开始时间：10:44:36
+09-25 10:44:36 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\tools\_1_tool.py', line 21, in start(), INFO -> 正在对设备:NX529J 进行软件安装操作
+09-25 10:44:36 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\tools\_1_tool.py', line 26, in start(), INFO -> 设备:NX529J 软件安装 失败（包名：D:\Users\REXLEE\Desktop\776952be891c458c867ef168a9c293fb.apkD:\Users\REXLEE\Desktop\0557c80da3564c8b911e520dc750b3e8.apk）
+09-25 10:45:01 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\thread_mod.py', line 20, in thread_start(), INFO -> 运行开始时间：10:45:01
+09-25 10:45:01 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\tools\_1_tool.py', line 21, in start(), INFO -> 正在对设备:NX529J 进行软件安装操作
+09-25 10:45:01 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\tools\_1_tool.py', line 26, in start(), INFO -> 设备:NX529J 软件安装 失败（包名：D:\Users\REXLEE\Desktop\776952be891c458c867ef168a9c293fb.apkD:\Users\REXLEE\Desktop\0557c80da3564c8b911e520dc750b3e8.apk）
+09-25 10:45:04 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\thread_mod.py', line 20, in thread_start(), INFO -> 运行开始时间：10:45:04
+09-25 10:45:04 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\tools\_1_tool.py', line 21, in start(), INFO -> 正在对设备:NX529J 进行软件安装操作
+09-25 10:45:04 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\tools\_1_tool.py', line 26, in start(), INFO -> 设备:NX529J 软件安装 失败（包名：D:\Users\REXLEE\Desktop\776952be891c458c867ef168a9c293fb.apkD:\Users\REXLEE\Desktop\0557c80da3564c8b911e520dc750b3e8.apk）
+09-25 10:45:05 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\thread_mod.py', line 20, in thread_start(), INFO -> 运行开始时间：10:45:05
+09-25 10:45:05 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\tools\_1_tool.py', line 21, in start(), INFO -> 正在对设备:NX529J 进行软件安装操作
+09-25 10:45:05 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\tools\_1_tool.py', line 26, in start(), INFO -> 设备:NX529J 软件安装 失败（包名：D:\Users\REXLEE\Desktop\776952be891c458c867ef168a9c293fb.apkD:\Users\REXLEE\Desktop\0557c80da3564c8b911e520dc750b3e8.apk）
+09-25 10:45:06 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\thread_mod.py', line 20, in thread_start(), INFO -> 运行开始时间：10:45:06
+09-25 10:45:06 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\tools\_1_tool.py', line 21, in start(), INFO -> 正在对设备:NX529J 进行软件安装操作
+09-25 10:45:06 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\tools\_1_tool.py', line 26, in start(), INFO -> 设备:NX529J 软件安装 失败（包名：D:\Users\REXLEE\Desktop\776952be891c458c867ef168a9c293fb.apkD:\Users\REXLEE\Desktop\0557c80da3564c8b911e520dc750b3e8.apk）
+09-25 10:57:25 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 36, in usb_connect(), INFO -> 正在读取设备列表
+09-25 10:57:25 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 50, in usb_connect(), INFO -> 添加设备0123456789ABCDEF	device
+09-25 10:57:25 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 50, in usb_connect(), INFO -> 添加设备d935a7ab	device
+09-25 10:57:25 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 51, in usb_connect(), INFO -> 已读取设备列表[('0123456789ABCDEF', 'NX529J', 'online'), ('d935a7ab', 'MI 4LTE', 'online')]
+09-25 10:57:28 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\page\mainpg_fun.py', line 178, in more_bn_f(), WARNING -> 设备:MI 4LTE 微信清空 成功
+09-25 10:57:29 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\page\mainpg_fun.py', line 110, in deleMsg_bn_f(), INFO -> 设备:MI 4LTE .Msg文件夹删除 成功
+09-25 14:56:59 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 36, in usb_connect(), INFO -> 正在读取设备列表
+09-25 14:56:59 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 50, in usb_connect(), INFO -> 添加设备NX529J	device
+09-25 14:56:59 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\getphone_mod.py', line 51, in usb_connect(), INFO -> 已读取设备列表[('NX529J', 'NX529J', 'online')]
+09-25 14:57:13 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\thread_mod.py', line 20, in thread_start(), INFO -> 运行开始时间：14:57:13
+09-25 14:57:13 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\tools\_1_tool.py', line 21, in start(), INFO -> 正在对设备:NX529J 进行软件安装操作
+09-25 14:57:16 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\tools\_1_tool.py', line 26, in start(), INFO -> 设备:NX529J 软件安装 失败（包名：D:\Users\REXLEE\Desktop\776952be891c458c867ef168a9c293fb.apk）
+09-25 14:57:21 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\thread_mod.py', line 20, in thread_start(), INFO -> 运行开始时间：14:57:21
+09-25 14:57:21 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\tools\_1_tool.py', line 21, in start(), INFO -> 正在对设备:NX529J 进行软件安装操作
+09-25 14:57:24 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\tools\_1_tool.py', line 26, in start(), INFO -> 设备:NX529J 软件安装 失败（包名：D:\Users\REXLEE\Desktop\776952be891c458c867ef168a9c293fb.apk）
+09-25 14:58:09 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\thread_mod.py', line 20, in thread_start(), INFO -> 运行开始时间：14:58:09
+09-25 14:58:09 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\tools\_2_tool.py', line 22, in start(), INFO -> 正在对设备:NX529J 进行软件卸载操作
+09-25 14:58:10 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\tools\_2_tool.py', line 25, in start(), INFO -> 设备:NX529J 软件卸载 成功（包名：com.lkkun54te）
+09-25 14:58:15 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\thread_mod.py', line 20, in thread_start(), INFO -> 运行开始时间：14:58:15
+09-25 14:58:15 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\tools\_1_tool.py', line 21, in start(), INFO -> 正在对设备:NX529J 进行软件安装操作
+09-25 14:58:18 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\tools\_1_tool.py', line 26, in start(), INFO -> 设备:NX529J 软件安装 失败（包名：D:\Users\REXLEE\Desktop\776952be891c458c867ef168a9c293fb.apk）
+09-25 14:59:12 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\thread_mod.py', line 20, in thread_start(), INFO -> 运行开始时间：14:59:12
+09-25 14:59:12 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\tools\_2_tool.py', line 22, in start(), INFO -> 正在对设备:NX529J 进行软件卸载操作
+09-25 14:59:13 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\tools\_2_tool.py', line 25, in start(), INFO -> 设备:NX529J 软件卸载 成功（包名：com.lkkun54te）
+09-25 14:59:17 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\mods\thread_mod.py', line 20, in thread_start(), INFO -> 运行开始时间：14:59:17
+09-25 14:59:17 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\tools\_1_tool.py', line 21, in start(), INFO -> 正在对设备:NX529J 进行软件安装操作
+09-25 14:59:20 File 'D:\Users\REXLEE\Desktop\Tool\PMTool\tools\_1_tool.py', line 26, in start(), INFO -> 设备:NX529J 软件安装 失败（包名：D:\Users\REXLEE\Desktop\776952be891c458c867ef168a9c293fb.apk）
