@@ -1167,7 +1167,7 @@ python run.py
 pyinstaller -F -w -i=my.ico test.py；
 ```
 my.ico 是一个图标名，和当前的test.py文件在同一个目录下
-【注意：ico必须用专业的制ico软件制作，可用这个在线制作软件制作：http://www.bitbug.net/】
+【注意：ico必须用专业的制ico软件制作，可用这个在线制作软件制作：http://www.bitbug.net/ 】
 
 -w指令，在指令内加入-w命令可以屏蔽发布的exe应用带命令行调试窗口；
 -F指令，使用-F指令可以把应用打包成一个独立的exe文件，否则是一个带各种dll和依赖文件的文件夹；
